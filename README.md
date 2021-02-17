@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/linutest09/New%20Test/_apis/build/status/New%20Test?branchName=master)](https://dev.azure.com/linutest09/New%20Test/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
